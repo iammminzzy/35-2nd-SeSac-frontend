@@ -1,6 +1,7 @@
 
 <h1>싱그러운 우리 (SeSAC)🌱</h1>
 
+<img src="https://user-images.githubusercontent.com/104430030/184290180-66c96950-1e42-461e-b413-1c74f05ce4c4.jpeg" alt="teamS2" width="500px" />
 
 <h2>개발 인원 및 기간</h2>
 
