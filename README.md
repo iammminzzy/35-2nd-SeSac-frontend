@@ -1,38 +1,46 @@
 
-<h1>싱그러운 우리 (SeSAC)🌱</h1>
+# 싱그러운 우리 (SeSAC)🌱
 
 <img src="https://user-images.githubusercontent.com/104430030/184290180-66c96950-1e42-461e-b413-1c74f05ce4c4.jpeg" alt="teamS2" width="500px" />
 
-<h2>개발 인원 및 기간</h2>
+## 개발 인원 및 기간
 
 - 개발기간 : 2022/8/1 ~ 2022/8/12 (10일)
 - 개발 인원 : FE 4명, BE 2명
   - Front-end : 김영수, 박성은, 손민지, 이금관
   - Back-end : 김동규, 박서윤
 
-<h2>프로젝트 소개</h2>
+## 프로젝트 소개
 
-식물 판매 및 식물 커뮤니티 사이트 싱그러운 집을 모티브로 한 프로젝트 입니다.
+식물 판매 및 식물 커뮤니티 사이트 [싱그러운 집](https://www.shouse.garden/main/main.html)을 모티브로 한 프로젝트 입니다.<br>
+기존 싱그러운 집 사이트와 차별화 되는점은 e-커머셜 기능을 제외하고 **커뮤니티 기능에 중점**을 둔 것입니다.<br>
+기존 사이트 '싱그러운 집'에서는 모티브만 가져왔을 뿐 개발은 초기 세팅부터 모두 직접 구현하였으며,<br>
+이번 프로젝트는 다양한 라이브러리와 API를 최대한 활용하는 것을 목표로 진행하였습니다.
 
-기존 싱그러운 집 사이트와 차별화 되는점은 e-커머셜 기능을 제외하고 커뮤니티 기능에 중점을 두었습니다.
+## 사용기술 스택
 
-개발은 초기 세팅부터 모두 직접 구현하였으며, 다양한 라이브러리와 API를 최대한 활용하는 방안으로 진행하였습니다.
+### Front-end<br>
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
+![JavaScript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![StyledComponents Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h2>사용기술 스택</h2>
+### Back-end<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
 
- - Front-end: <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>
-- Back-end: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+## 협업 툴
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/>&nbsp;
 
+## 구현 목표
 
-<h2>협업 툴</h2>
-
-- Trello
-- Notion
-- Github
-
-<h2>구현 목표</h2>
-
-- 메인 페이지 (React-Slick 라이브러리를 이용한 슬라이더 구현)
+- 메인 페이지 (React-Slick 라이브러리를 이용한 이미지 슬라이더 구현)
 - 소셜 로그인 (카카오 REST API)을 이용한 로그인 페이지
 - 게시글목록 페이지
 - 게시글목록 페이지 내 검색 및 필터링 기능
@@ -40,7 +48,7 @@
 - 게시글 댓글, 대댓글 기능 생성, 수정 및 삭제 기능
 - 글쓰기 페이지 (여러개의 사진을 Form Data를 이용하여 보내기)
 
-<h2>시연영상</h2>
+## 시연영상
 
 [🌱 싱그러운 우리, SeSac](http://www.youtube.com/watch?v=ayGvLwikPxk)
 
